@@ -24,7 +24,7 @@ $ python holyscrap.py
 
 ## Utilización
 
-`holyscraper.py` acepta dos parámetros en la linea de comandos de forma opcional:
+`holyscrap.py` acepta dos parámetros en la linea de comandos de forma opcional:
 
 ```shell
 $ python holyscrap.py [start, [stop]]
